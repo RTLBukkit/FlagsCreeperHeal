@@ -1,0 +1,4 @@
+Flag:
+  BlocksHeal:
+    Description: Toggles allowing CreeperHeal to heal blocks.
+    Default: true
