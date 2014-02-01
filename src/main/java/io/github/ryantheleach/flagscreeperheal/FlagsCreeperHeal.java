@@ -26,8 +26,8 @@
 package io.github.ryantheleach.FlagsCreeperHeal;
 
 import com.nitnelave.CreeperHeal.events.CHExplosionRecordEvent;
-import io.github.alshain01.Flags.*;
-import io.github.alshain01.Flags.System;
+import io.github.alshain01.flags.*;
+import io.github.alshain01.flags.System;
 import java.util.Iterator;
 import java.util.List;
 
